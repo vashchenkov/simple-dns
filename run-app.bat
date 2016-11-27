@@ -1,0 +1,1 @@
+d:\programming\java\jdk-9\bin\java  -agentlib:jdwp=transport=dt_socket,server=y,suspend=n,address=5005 --module-path mods/; -m ru.gubber.simple_dns/ru.gubber.simple_dns.SimpleDnsApp
